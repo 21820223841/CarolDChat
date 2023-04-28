@@ -1,0 +1,91 @@
+﻿Documento sobre políticas da empresa Creditas
+
+
+Cada política está separada por tema
+
+
+
+
+1. Budget de Estudo
+
+
+O budget de estudo é um incentivo para o investimento em estudo e desenvolvimento do tripulante. O budget se aplica aos tripulantes das áreas Product Technology e Business. As áreas de Customer Journey tem o investimento em seu desenvolvimento através dos Programas da Academy.
+Política e informações para a tripulação
+https://creditas.atlassian.net/wiki/spaces/Academy/blog/2020/03/10/372801537/Budget+de+Estudo
+Processo
+Hoje recebemos em torno de 5 solicitações por semana. Então reservo 20 minutos da semana para fazer esse processo. Gosto de validar pessoalmente porque identifico oportunidades, mas seria interessante analisar com mais profundidade o histórico.
+Os tripulantes solicitam o budget de estudo pelo link do pipefy, e nós recebemos um card para cada solicitação. Para cada solicitação avalio:
+A área do tripulante (aprovando apenas Business ou PT)
+Aprovação do líder (precisa vir em anexo o print da troca de e-mail)
+Cupom fiscal (precisa estar no nome do tripulante senão será barrado em finance)
+Motivo da solicitação (Avalio se exige uma conexão com o desenvolvimento para a cadeira atual ou futura. Também avalio se é um conteúdo que não temos, entendo as oportunidades de comunicação ou criação de novos conteúdos)
+Consulto o saldo de budget na planilha
+
+
+
+
+Pipefy para aprovação
+https://app.pipefy.com/pipes/1167879
+Dentro de cada card após conferir as informações, preencho o campo valor com o valor a ser reembolsado (50% ou o máximo do budget de 1.000,00) e clico em "aprovado". Caso a solicitação seja negada é só escrever um comentário com o motivo na negativa, e clicar em "negado".
+Planilha de controle (2020 e 2021) https://docs.google.com/spreadsheets/d/1YKtoXmfSWYdXcs9tTfHxebYjjlp0oKI7RrHQ3oUgrx4/edit#gid=1699314900
+Na planilha registro e-mail data e valor reembolsado.
+A planilha serve como etapa de validação de saldo de budget, então sempre ordeno alfabeticamente por e-mail ao iniciar o processo e vou batendo caso a caso.
+Oportunidades
+Não temos um valor máximo definido, travado em budget, mas ao mesmo tempo não é algo que até hoje divulgamos com muita força.
+O budget de estudo é um diferencial que tem sido bem mais agressivo no mercado, principalmente para área de tech. Por isso no início do ano começamos a desenhar algumas alternativas de cenários. Fiz uma simulação no início do ano, está na mesma planilha de controle (aba simulação) para aumentar o budget individual a partir do nível II da tripulação de PT + dados. A simulação chegou a ser aprovada, mas como estávamos para lançar a degreed sugeri que voltássemos atrás com a decisão e retomaríamos em Q3 ou Q4.
+Hoje vejo que o repertório de programas que temos para a tripulação mais junior já é muito vasto (degreed, EF, boost, alura). Eu voltaria a avaliar a possibilidade de ampliar o valor de budget e o % de coparticipação para a tripulação mais senior (a partir de nivel II ou III). Um outro caminho é ter budget por área e deixar a estratégia mais na mão de cada área, para decidir se investe no coletivo ou individualmente, mas ai seria um passo de total descentralização dessa curadoria, gestão e avaliação de impacto.
+
+
+
+
+
+
+
+
+2. Programas de Idiomas
+O programa de idiomas teve início em agosto de 2020, e foi renovado para mais um ano de programa em jul 2021.
+Nossa parceria é com a EF, e nosso principal ponto de contato é o João
+Account Manager: João Cavatão joao.cavatao@ef.com, 11 99714-4151 Customer Success Manager: nathalia.marangoni@ef.com
+Política e informações para a tripulação INGLÊS
+https://creditas.atlassian.net/wiki/spaces/PTFA/pages/899777793/Programa+de+Idiomas
+O programa de idiomas hoje abrange toda tripulação Global. Laura e Mafe nos apoiam localmente mas dependem de infos nossas, já que o processo de inscrição, matrícula e desligamento fica concentrado em um processo único.
+Processo INGLÊS
+O processo de gestão da EF envolve:
+* Acompanha novas inscrições (brasil e mex+val, são 2 forms diferentes)
+* Direcionar novas inscrições para prova EF
+* Matricular novos tripulantes
+* Acompanhar o aproveitamento dos tripulantes ativos
+* Dar feedback para tripulantes que estão próximos ao "desligamento do progrma"
+* Desativar usuários que não consomem a plataforma (critérios da política)
+* Régua de comunicação em todas as etapas
+Revisando as etapas com a Ana, mapeamos as seguinte atividades e periodicidade
+
+📊 Ferramenta de controle de matrícula, e acompanhamento das turmas. Essa planilha foi criada pelo Brejas, está bem carregada e complexa e pouco efetiva, então comecei a revisar o fluxo com a Ana Carol e vamos começar uma nova ferramenta.
+https://docs.google.com/spreadsheets/d/1H4BqfRGobcNu_nLuE7Q8sGKxsAjyXmbxdpKgnEQPyWE/edit#gid=0
+‼️ Tivemos muitos problemas de processo esse semestre, e muitos descobri com mais detalhes agora com a Ana. O mais crítico e urgente aqui é garantir que o processo aconteça mensalmente
+Português
+Definimos que esse semestre não entraríamos com o programa de português da EF e sim com aulas particulares em cada país. Foi uma preferência da tripulação, mas principalmente foi uma forma de nos organizarmos com o programa de inglês primeiro dado todos os problemas de processo que tivemos nesse ano.
+Em termos de budget o investimento seria próximo, 15k reais por mês. Com isso, defini um budget específico para Mex e um para Val, e as ponto focais fazem essa gestão dentro de cada país. Meu combinado foi que não podem estourar o budget, e que precisam acompanhar a participação e desenvolvimento da tripulação matricualda.
+
+
+
+
+3. Alura
+
+
+Programas Alura e OReilly
+As plataformas Alura e OReilly são plataformas com curadoria de conteúdo técnico. Escolhemos essas duas opções para expandir o conteúdo disponível em Product Tech. A Alura tem diversos conteúdo em português, e atende o público mais junior, enquanto a OReilly tem conteúdo mais aprofundados tecnicamente.
+O tripulantes deve escolher um subsídio ou outro, e no caso da Alura pode ser tirado do programa caso não use a plataforma.
+Os links, descrição e política de cada programa estão aqui:
+https://creditas.atlassian.net/wiki/spaces/PROC/pages/1078789786/Alura+-+Plataforma+de+desenvolvimento+t+cnico+para+Product+Technology
+https://creditas.atlassian.net/wiki/spaces/PROC/pages/1100742931/Reembolso+ACM.org
+
+
+
+
+4. Férias
+
+
+São permitidas férias de até 20 dias, com no mínimo 5 dias. 
+As férias na Creditas só podem acontecer nos meses janeiro, julho e dezembro
+Para tirar férias o funcionário deve trabalhar na empresa há mais de 12 meses
